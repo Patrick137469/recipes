@@ -4,3 +4,8 @@
 * lime
 * salt
 ## Instructions
+
+Martini
+- vodka 
+- vermouth 
+- pickle juice
